@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.First_div{
+  background: grey;
+  justify-content:center;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  padding-top:30px;
+  color: white;
+}
+.main-slide{
+  padding-top:30px;
+  width:450px;
+  height:450px;
+  justify-content:center;
+  text-align: center;
+  padding-left:"20%";
+  
+}
+
+.btn{
+  margin-left: 50%;
+  margin-bottom: 5%;
+}
+/* .picture{
+  padding-top:30px;
+  width:50px;
+  height:50px;
+  padding-left:"20%";
+
+} */
+
